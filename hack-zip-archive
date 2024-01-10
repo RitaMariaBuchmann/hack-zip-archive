@@ -1,0 +1,9 @@
+A bit of a strange question, but is there no tool for finding out a Winzip archive password that finds the password using the following method:
+
+The password is for example: Fred92113!!
+…..then the program could search for the first symbol, i.e. “F”, and once it has found that, then the program could search for the second symbol, i.e. “r”, etc.
+
+Personally, I think the Dictionary Attack thing is pretty bullshit and might be effective for some attacks.
+
+Is there such a script?
+Mailto: ritamariabuchmann@gmail.com
